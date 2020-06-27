@@ -1,1 +1,1 @@
-# Weather.com.
+# Weather.com
